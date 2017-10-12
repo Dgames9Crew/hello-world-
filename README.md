@@ -1,2 +1,3 @@
 # hello-world-
-me first
+Hello! This is my first one! I love java!
+- Dgames Crew
